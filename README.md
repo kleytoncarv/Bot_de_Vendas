@@ -1,5 +1,5 @@
-# Bot_de_Vendas
+# Notify Desktop
 
-Robô/Bot para anunciar e vender seus produtos.
+Sistema de Notificação para desktop
 
 
